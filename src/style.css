@@ -87,3 +87,7 @@ p#current-range {
 .card-title {
   font-weight: 600;
 }
+
+.repository-link {
+  text-align: center;
+}
